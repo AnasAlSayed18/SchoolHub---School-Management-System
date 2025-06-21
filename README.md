@@ -45,7 +45,7 @@ SchoolHub is a complete Android-based school management system supporting three 
 > 💡 All screenshots are from the actual running app. Images are resized for readability.
 
 ### 🔐 Login Interface
-<img src="screenshots/Login.png" width="350"/>
+<img src="screenshots2025/Login.png" width="350"/>
 
 ---
 
