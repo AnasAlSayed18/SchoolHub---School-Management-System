@@ -52,76 +52,76 @@ SchoolHub is a complete Android-based school management system supporting three 
 ### 👨‍🎓 Student Interfaces
 
 #### Student Dashboard
-<img src="screenshots/StudentDashboard.png" width="350"/>
+<img src="screenshots2025/StudentDashboard.png" width="350"/>
 
 #### Student Marks
-<img src="screenshots/StudentMarks.png" width="350"/>
+<img src="screenshots2025/StudentMarks.png" width="350"/>
 
 #### Attendance Page
-<img src="screenshots/StudentAttendance.png" width="350"/>
+<img src="screenshots2025/StudentAttendance.png" width="350"/>
 
 #### Assignments Page
-<img src="screenshots/StudentAssignment.png" width="350"/>
+<img src="screenshots2025/StudentAssignment.png" width="350"/>
 
 #### Event Calendar
-<img src="screenshots/StudentCalendar.png" width="350"/>
+<img src="screenshots2025/StudentCalendar.png" width="350"/>
 
 #### Event Board (Details Page)
-<img src="screenshots/StudentEvent.png" width="350"/>
+<img src="screenshots2025/StudentEvent.png" width="350"/>
 
 #### Student Leaderboard
-<img src="screenshots/StudentLeaderboard.png" width="350"/>
+<img src="screenshots2025/StudentLeaderboard.png" width="350"/>
 
 ---
 
 ### 👩‍🏫 Teacher Interfaces
 
 #### Teacher Dashboard
-<img src="screenshots/TeacherDashboard.png" width="350"/>
+<img src="screenshots2025/TeacherDashboard.png" width="350"/>
 
 #### Publish Marks Page
-<img src="screenshots/TeacherPublishMarks.png" width="350"/>
+<img src="screenshots2025/TeacherPublishMarks.png" width="350"/>
 
 #### View Grade Summary
-<img src="screenshots/TeacherViewGrade.png" width="350"/>
+<img src="screenshots2025/TeacherViewGrade.png" width="350"/>
 
 #### Take Attendance
-<img src="screenshots/TeacherTakeAttendance.png" width="350"/>
+<img src="screenshots2025/TeacherTakeAttendance.png" width="350"/>
 
 #### Take Attendance Using QR Scanner
-<img src="screenshots/TeacherQR.png" width="350"/>
+<img src="screenshots2025/TeacherQR.png" width="350"/>
 
 #### Schedule Exam Page
-<img src="screenshots/TeacherScheduleExam.png" width="350"/>
+<img src="screenshots2025/TeacherScheduleExam.png" width="350"/>
 
 #### Leaderboard with Medals
-<img src="screenshots/TeacherLeaderboard.png" width="350"/>
+<img src="screenshots2025/TeacherLeaderboard.png" width="350"/>
 
 ---
 
 ### 🧑‍💼 Registrar Interfaces
 
 #### Registrar Dashboard
-<img src="screenshots/RegDashboard.png" width="350"/>
+<img src="screenshots2025/RegDashboard.png" width="350"/>
 
 #### Schedule Builder
-<img src="screenshots/RegBuildSchedule.png" width="350"/>
+<img src="screenshots2025/RegBuildSchedule.png" width="350"/>
 
 #### Add Class
-<img src="screenshots/RegAddClass.png" width="350"/>
+<img src="screenshots2025/RegAddClass.png" width="350"/>
 
 #### Add Student
-<img src="screenshots/RegAddStudent.png" width="350"/>
+<img src="screenshots2025/RegAddStudent.png" width="350"/>
 
 #### Add Teacher
-<img src="screenshots/RegAddTeacher.png" width="350"/>
+<img src="screenshots2025/RegAddTeacher.png" width="350"/>
 
 ---
 
 ### 🔔 Notifications Page
 
 #### Notification List with Status Dots
-<img src="screenshots/Notification.png" width="350"/>
+<img src="screenshots2025/Notification.png" width="350"/>
 
 ---
 
