@@ -1,6 +1,9 @@
-# 📚 SchoolHub - Android School Management App
+#  SchoolHub - Android School Management App📚
 
-SchoolHub is a complete Android-based school management system supporting three roles: *students, **teachers, and **registrars*. It provides robust features such as marks entry, attendance tracking, schedule management, assignment submission, and notifications — all through an intuitive role-based UI.
+<img src="screenshots2025/splash.gif" alt="HomeTouch Logo" width="400" />
+
+## Overview
+**SchoolHub** is a complete Android-based school management system supporting three roles: *students, **teachers, and **registrars*. It provides robust features such as marks entry, attendance tracking, schedule management, assignment submission, and notifications — all through an intuitive role-based UI.
 
 > 🎨 The app interface was *initially designed in Figma, then developed in **Android Studio (Java)* with a *PHP-MySQL backend* hosted on a *global hosting server*, allowing remote access and real-time data syncing.
 
