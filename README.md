@@ -132,7 +132,8 @@
 
 Watch a full walkthrough of the app showcasing all user roles and features:
 
-[![Watch Demo](https://drive.google.com/file/d/1AisuFVfjIBRLnmEVMk65rnXug5HLnmzU/view?usp=drive_link)
+[Click here to watch the demo](https://drive.google.com/file/d/1AisuFVfjIBRLnmEVMk65rnXug5HLnmzU/view?usp=sharing)
+
 
 ---
 
