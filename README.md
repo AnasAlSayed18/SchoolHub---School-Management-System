@@ -146,4 +146,3 @@ Watch a full walkthrough of the app showcasing all user roles and features:
 - *Zxing* for QR scanner functionality
 - *Figma* for UI/UX design prototypes
 - *Custom layouts* with RecyclerView, CardView, and Fragments
-- 
